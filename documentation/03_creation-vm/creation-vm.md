@@ -33,7 +33,7 @@ Ce guide vous montre comment créer une machine virtuelle avec **VMware Workstat
 5. **Configurer le disque dur virtuel** : 
 
    - Sélectionnez **Créer un nouveau disque virtuel**.
-   - Attribuez la taille du disque virtuel (40 Go ou plus recommandé).
+   - Attribuez la taille du disque virtuel (20 Go ou plus recommandé).
    - Choisissez de stocker le disque virtuel en un seul fichier ou en plusieurs fichiers. Le stockage en un seul fichier peut améliorer la performance.
 
 6. Cliquez sur **Next** puis sur **Finish** pour finaliser la création de la machine virtuelle.
