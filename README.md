@@ -14,6 +14,15 @@ Ce projet vise à documenter et à partager une méthode pour configurer une mac
 
 ---
 
+## 👥 Collaboration
+
+Ce projet a été réalisé en groupe de **3 personnes**. Voici les liens vers les profils GitHub de mes coéquipiers :
+
+- **[Aurélie Parseghian](https://github.com/aurelie-parseghian)**  
+- **[Dehlia Neiss](https://github.com/dehlia-neiss)**  
+
+---
+
 ## 📞 Contact
 
 Si vous avez des questions ou des suggestions, n'hésitez pas à me contacter via l'un des moyens suivants :
@@ -21,4 +30,3 @@ Si vous avez des questions ou des suggestions, n'hésitez pas à me contacter vi
 - **Email** : [sofianboubahri@gmail.com](mailto:sofianboubahri@gmail.com)
 - **LinkedIn** : [Me](https://www.linkedin.com/in/sofian-boubahri-71a521271/)
 - **Root me** : [So.](https://www.root-me.org/So-797745?lang=fr#ea9f5fc2c4b4fe9ce3e8d10ed67cf404)
-
