@@ -10,12 +10,7 @@ Ce guide vous montre comment créer une machine virtuelle avec **VMware Workstat
 
 3. Sélectionnez la configuration **Typique (Recommandée)** pour la création de la machine virtuelle.
 
-4. Dans la fenêtre **Select a Guest Operating System**, choisissez **Microsoft Windows**.
-
-   - Si vous avez téléchargé **Windows 10**, sélectionnez **Windows 10**.
-   - Si vous avez téléchargé **Windows 11**, sélectionnez **Windows 11**.
-
-5. Cliquez sur **Next** pour passer à l'étape suivante.
+4. Cliquez sur **Next** pour passer à l'étape suivante.
 
 ### 3. Choisir l'ISO de Windows
 
