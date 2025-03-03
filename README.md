@@ -20,6 +20,5 @@ Si vous avez des questions ou des suggestions, n'hésitez pas à me contacter vi
 
 - **Email** : [sofianboubahri@gmail.com](mailto:sofianboubahri@gmail.com)
 - **LinkedIn** : [Me](https://www.linkedin.com/in/sofian-boubahri-71a521271/)
-- **GitHub** : [@sofian-boubahri](https://github.com/sofian-boubahri)
 - **Root me** : [So.](https://www.root-me.org/So-797745?lang=fr#ea9f5fc2c4b4fe9ce3e8d10ed67cf404)
 
